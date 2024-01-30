@@ -7,10 +7,10 @@ Back-end developer
 <img width="45%" src="https://lanyard.cnrad.dev/api/257152789933719552?theme=dark&bg=151515&borderRadius=5px" alt="Discord"/>
 </a>
 <br>
-                    <img src="https://github-readme-stats.vercel.app/api?username=devMOVE&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" alt="devMOVE" />
+                    <img src="https://github-readme-stats.vercel.app/api?username=winbwwE&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" alt="devMOVE" />
 
 <br>
-        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=devMOVE&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
+        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=winbww&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
 
 </p>
 
